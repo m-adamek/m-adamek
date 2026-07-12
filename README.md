@@ -12,7 +12,7 @@ Applied Computer Science student at the Cracow University of Economics, interest
 
 ## Featured Projects
 
-### SmartCity (Hackathon Project – 2nd Place)
+- ### SmartCity (Hackathon Project – 2nd Place)
 Smart City platform combining web technologies and machine learning for urban infrastructure monitoring.
 
 **My contribution:**
@@ -24,7 +24,7 @@ Smart City platform combining web technologies and machine learning for urban in
 Project is currently being further developed after the hackathon.
 
 
-### Identity Overlay
+- ### Identity Overlay
 Research project focused on data collection and analysis of scientific publications.
 
 **Technologies:**
@@ -33,7 +33,7 @@ Python, OpenAlex API, Crossref API, PubMed API
 **Repo**: https://github.com/m-adamek/eda-project.git
 
 
-### Moodle Scraper
+- ### Moodle Scraper
 Automation tool for downloading and organizing Moodle course materials.
 
 **Technologies:**
@@ -42,7 +42,7 @@ Python, Playwright, CAS Authentication
 **Repo**: https://github.com/m-adamek/moodle-scraper.git
 
 
-### School Network Design
+- ### School Network Design
 Design and implementation of a secure school network infrastructure.
 
 **Technologies:**
