@@ -23,13 +23,15 @@ Smart City platform combining web technologies and machine learning for urban in
 
 Project is currently being further developed after the hackathon.
 
+
 ### Identity Overlay
 Research project focused on data collection and analysis of scientific publications.
 
 **Technologies:**
 Python, OpenAlex API, Crossref API, PubMed API
 
-Repo:
+**Repo**: https://github.com/m-adamek/eda-project.git
+
 
 ### Moodle Scraper
 Automation tool for downloading and organizing Moodle course materials.
@@ -37,7 +39,8 @@ Automation tool for downloading and organizing Moodle course materials.
 **Technologies:**
 Python, Playwright, CAS Authentication
 
-Repo:
+**Repo**: https://github.com/m-adamek/moodle-scraper.git
+
 
 ### School Network Design
 Design and implementation of a secure school network infrastructure.
@@ -45,7 +48,8 @@ Design and implementation of a secure school network infrastructure.
 **Technologies:**
 Cisco Packet Tracer, VLANs, Wi-Fi, VoIP
 
-Repo:
+**Repo**: https://github.com/m-adamek/School-Network-Design.git
+
 
 ## Technologies
 
