@@ -5,7 +5,6 @@ Applied Computer Science student at the Cracow University of Economics, interest
 ## Currently
 
 - 🎓 B.Sc. student in Applied Computer Science
-- 🔬 Author of a research paper currently under peer review
 - 🏆 2nd place winner of a Smart City hackathon
 - 💻 Developing personal and academic software projects
 - 🌱 Expanding my knowledge of Machine Learning, Data Engineering and Cloud Technologies
